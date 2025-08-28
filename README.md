@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+(๑ > ᴗ < ๑);+I'm+Liza+!+(๑>◡<๑);&color=FFFFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+(๑>ᴗ<๑);+I'm+Liza+!+(๑>◡<๑);&color=c9d1d9" />
 </h1>
 
 <h3 align="center">
   Crafting with creativity, coding with passion ( ๑ ˃̵ᴗ˂̵)و ♡
 </h3>
 
-<hr>>
+<hr>
 
 <!-- About Me Section -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
@@ -14,10 +14,10 @@
 
   <div align="left">
   <br>
-    🎨 I’m currently creating **playful and creative web projects** <br><br>
-    🌱 I’m currently exploring **ReactJS, Tailwind, and ways to make designs come alive** <br><br>
-    💬 Always open to chatting about **creative tech and fun projects** <br><br>
-    ✨ Fun fact: **I believe every bug is just a feature waiting for a creative twist**
+    🎨 I’m currently creating <strong>playful and creative web projects</strong><br><br>
+    🌱 I’m currently exploring <strong>ReactJS, Tailwind, and ways to make designs come alive</strong><br><br>
+    💬 Always open to chatting about <strong>creative tech and fun projects</strong><br><br>
+    ✨ Fun fact: <strong>I like micro interactions in user interfaces!</strong>
   </div>
 </div>
 <br>
