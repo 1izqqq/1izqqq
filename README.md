@@ -63,15 +63,6 @@
 
   <img src="assets/momonga.gif" alt="momonga gif" width="120" />
 
-  <a href="https://ko-fi.com/1izaisar0bot" target="_blank">
-    <img 
-      height="20" 
-      style="border:0px;height:40px;" 
-      src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" 
-      border="0" 
-      alt="Buy Me a Coffee at ko-fi.com" />
-  </a>
-
 </div>
 
 
